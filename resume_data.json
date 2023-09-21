@@ -1,0 +1,14 @@
+{
+    "PersonalDetails": {
+        "Name": "Yusuf Aras",
+        "Mobile": "+44 7000000000",
+        "Email": "exmp@exmpdomn.com",
+        "PostCode": "PK"
+    },
+    "PersonalProfile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In cursus turpis massa tincidunt dui. Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat. Orci porta non pulvinar neque laoreet suspendisse interdum. Id consectetur purus ut faucibus pulvinar elementum integer enim. Tincidunt eget nullam non nisi. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Lectus arcu bibendum at varius vel pharetra vel. In tellus integer feugiat scelerisque varius morbi enim. Varius vel pharetra vel turpis.",
+    "Skillset": "nec feugiat nisl pretium fusce id velit ut",
+    "EmploymentHistory": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In metus vulputate eu scelerisque felis imperdiet proin fermentum.",
+    "EducationAndTraining": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "HobbiesAndInterests": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "References": "dui nunc"
+}
